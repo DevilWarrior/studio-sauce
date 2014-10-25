@@ -1,7 +1,7 @@
-# Awesome Sysadmin
-A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
+# studio-sauce
+Every wondered what open source resources you should know about when starting your own IT driven post-production/vfx studio? This list contains important tools, projects and links to create, setup, monitor and enhance your infrastructure. Inspired by [Awesome-sysadmin](https://github.com/kahun/awesome-sysadmin). 
 
-* [Awesome Sysadmin](#awesome-sysadmin)
+* [studio-sauce](#studio-sauce)
   * [Backups](#backups)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
